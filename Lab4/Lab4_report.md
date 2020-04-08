@@ -438,7 +438,7 @@ int main()
 }
 ```
 
-![Рис.1 Результат отработки программы](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab4/images/draw.PNG)
+![Рис.1 Результат отработки программы](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab4/images/draw.PNG)\
 *рис.1: Результат отработки программы*\
 \
 **Вывод:** В ходе выполнения данной лабораторной работы приобрел навыки работы с многофайловыми программами и закрепил навыки работы со структурами и перечислениями.
