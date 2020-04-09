@@ -258,18 +258,19 @@ bool updateGame(Game* game)
 			return true;
 		}
 	}
-
+	
 	if (game->board[2][0] == 'x' || game->board[2][0] == '0')
 	{
-		if ((game->board[1][1] == game->board[0][0]) && (game->board[0][2] == game->board[0][0]))
+		if ((game->board[1][1] == game->board[0][2]) && (game->board[1][1] == game->board[2][0]))
 		{ 
-			if (game->board[2][2] == game->userChar)
+			if (game->board[1][1] == game->userChar)
 				game->status = USER_WIN;
 			else
 				game->status = BOT_WIN;
 			return true;
 		}
 	}
+	
 	
 
 	bool draw = 1;
