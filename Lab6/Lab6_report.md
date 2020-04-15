@@ -35,9 +35,9 @@
 **1\.** Скачиваем [библиотеку](https://github.com/yhirose/cpp-httplib) для работы с сетью с гитхаба и подключаем необходимые файлы.
 **2\.** Пишем сервер, выводящий "Hellow word!" на веб странице и проверяем его работоспособность в браузере.
 ![Рис.1 Тест сервера в браузере](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab6/scrinshots/test.jpg)
-**3\.**Получаем API key (мой: c6fac05b9afef023bd1347495d1c2052) и с помощью него получаем актуальный прогноз погоды. В прграмме Postman смотрим на ответ от сайта на наш запрос в формате json.
+**3\.** Получаем API key (мой: c6fac05b9afef023bd1347495d1c2052) и с помощью него получаем актуальный прогноз погоды. В прграмме Postman смотрим на ответ от сайта на наш запрос в формате json.
 ![Рис.2 Ответ от сайта](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab6/scrinshots/postman.jpg)
-**4\.**Пишем клиен и убеждаемся, что он получает тот же ответ на нашь запрос, что и postman.
+**4\.** Пишем клиен и убеждаемся, что он получает тот же ответ на нашь запрос, что и postman.
 ![Рис.3 Ответ клиенту](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab6/scrinshots/klient.jpg)
 
 **5\.** Пишем код для работы с .html файлом. Итоговый код программы выглядит так:
