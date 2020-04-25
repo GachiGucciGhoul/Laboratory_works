@@ -35,7 +35,7 @@
 
 1. Скачиваем на компьютер JDK 8.
 2. Устанавливаем Android Studio.
-3. В Android Studio заходим в SDK и устонавливаем необходиме android компоненты.\
+3. В Android Studio заходим в SDK и устонавливаем необходиме android компоненты.
 4. Заходим в QT и в настройках android указываем путь на скаченные нами JDK, SDK и NDK.\
 ![Изображение#1](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab8/images/1.jpg)\
 *Рис.1 Настройка Qt*
